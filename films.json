@@ -1,0 +1,15 @@
+{
+    "type": "list",
+    "headline": "Films",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass",
+        "icon": "msx-white-soft:movie",
+        "iconSize": "medium"
+    },
+    "items": [{
+            "title": "Hocus Pocus",
+            "action": "video:http://192.168.1.178:8080/Hocus.Pocus.1993.1080p.BrRip.x264.YIFY.mp4"
+        }]
+}

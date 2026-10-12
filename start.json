@@ -1,0 +1,5 @@
+{
+    "name": "Films NAS",
+    "version": "1.0.1",
+    "parameter": "content:https://raw.githubusercontent.com/cecile-eva/msx/refs/heads/main/films.json"
+}
