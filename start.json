@@ -1,0 +1,5 @@
+{
+    "name": "Films NAS",
+    "version": "1.1.0",
+    "parameter": "menu:https://raw.githubusercontent.com/GITHUB-USERNAME/msx/refs/heads/main/films.json"
+}
